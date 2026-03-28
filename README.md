@@ -20,10 +20,6 @@ Designul teoretic complet al proiectului este structurat pe **4 etaje principale
 
 Organizarea fișierelor reflectă structura modulară a proiectului:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Madaul22/SCIA-Project/main/Screenshot%202026-03-28%20at%2011.52.46.png" alt="Structura Repository SCIA" width="500"/>
-</p>
-
 - 📁 **`measurements_data/`**: Date brute colectate cu ADALM2000.
 - 📁 **`ltspice_files/`**: Profile de simulare `.asc` pentru toate cele **4 etaje** ale circuitului.
 - 📄 **`Raport Proiect SCIA Madarasan.pdf`**: Documentația tehnică detaliată.
@@ -54,11 +50,6 @@ Deși proiectul cuprinde 4 etaje în faza de design, **implementarea fizică pe 
 </p>
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:alexhdplusro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
 
 <p align="center">
   <i>Realizat de Mădărășan Ioan-Alexandru</i>
