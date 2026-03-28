@@ -10,7 +10,7 @@
 ---
 
 ### 📝 Descriere Proiect
-[cite_start]Acest proiect vizează proiectarea, simularea în **LTspice** și implementarea fizică a unei surse de tensiune stabilizate[cite: 5]. [cite_start]Sistemul este conceput să mențină o tensiune de ieșire constantă utilizând un circuit de reglare cu reacție[cite: 5].
+Acest proiect vizează proiectarea, simularea în **LTspice** și implementarea fizică a unei surse de tensiune stabilizate.Sistemul este conceput să mențină o tensiune de ieșire constantă utilizând un circuit de reglare cu reacție.
 
 Designul teoretic complet al proiectului este structurat pe **4 etaje principale**, toate fiind validate prin simulări CAD.
 
