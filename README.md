@@ -28,15 +28,19 @@ Etajele proiectate sunt:
  <h2>Implementare Fizică și Validare</h2>
 <p>Deși proiectul cuprinde 4 etaje în faza de design, implementarea fizică pe breadboard a fost realizată cu succes pentru primele 3 etaje principale:
 </p>
+<p align="center">
+  <img src="etaj1_breadboard.jpeg" alt="Etaj 1" width="220"/></br>
+  <i>Fig. 1: Etaj 1 (Amplificator cu compensare DC)</i>
+</p>
+<p align="center">
+  <img src="etaj2_breadboard.jpeg" alt="Etaj 1" width="220"/></br>
+  <i>Fig. 2: Etaj 2 (Filtru Trece-Banda Rauch)</i>
+</p>
+<p align="center">
+  <img src="etaj3_breadboard.jpeg" alt="Etaj 1" width="220"/></br>
+  <i>Fig. 3: Etaj 3 (Amplificator cu Castig Programabil)</i>
+</p>
 
-<p align="center">
-  <img src="etaj1_breadboard.jpeg" alt="Etaj 1" width="220"/>
-  <img src="etaj2_breadboard.jpeg" alt="Etaj 2" width="220"/>
-  <img src="etaj3_breadboard.jpeg" alt="Etaj 3" width="220"/>
-</p>
-<p align="center">
-  <i>Fig. 1: Etaj 1 (Amplificator cu compensare DC) | Fig. 2: Etaj 2 (Filtru Trece-Banda Rauch) | Fig. 3: Etaj 3 (Amplificator cu Castig Programabil)</i>
-</p>
 
 > **Notă:** Etajul 4 a fost validat exclusiv prin simulări software în LTspice, în timp ce etapele 1-3 au fost confirmate prin măsurători reale folosind Scopy.
 
