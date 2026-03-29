@@ -1,6 +1,6 @@
 <h1 align="center"> Sursă de Tensiune Stabilizată și Reglabilă</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Project_Completed-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Unelte-LTspice_%7C_Scopy-blue?style=for-the-badge" alt="Tools">
   <img src="https://img.shields.io/badge/Hardware-ADALM2000-orange?style=for-the-badge" alt="ADALM">
 </p>
