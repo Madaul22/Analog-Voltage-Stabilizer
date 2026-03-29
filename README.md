@@ -1,7 +1,7 @@
 <h1 align="center"> Sursă de Tensiune Stabilizată și Reglabilă</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Project_Completed-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Tools-LTspice_%7C_Scopy-blue?style=for-the-badge" alt="Tools">
+  <img src="https://img.shields.io/badge/Unelte-LTspice_%7C_Scopy-blue?style=for-the-badge" alt="Tools">
   <img src="https://img.shields.io/badge/Hardware-ADALM2000-orange?style=for-the-badge" alt="ADALM">
 </p>
 
@@ -43,9 +43,27 @@ Etajele proiectate sunt:
 ---
 
  <h2>Tehnologii și Unelte:</h2>
-<p align="left">
-
-</p>
+ <ul>
+   <li> <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer">
+           LTspice
+        </a>
+   </li>
+   <li>
+      <a href="https://wiki.analog.com/university/tools/m2k/scopy" target="_blank" rel="noreferrer">
+           Scopy
+      </a>
+   </li>
+   <li>
+      <a href="https://www.analog.com/" target="_blank" rel="noreferrer">
+           Analog Devices
+      </a>
+   </li>
+   <li>
+      <a href="https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html" target="_blank" rel="noreferrer">
+           ADALM2000
+      </a>
+   </li>
+ </ul>
 
 ---
 
